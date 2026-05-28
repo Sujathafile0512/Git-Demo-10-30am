@@ -1,3 +1,4 @@
 # Git-Demo-10-30am
-This is my favourite git Repo
+This is my favourite git Repo.
+<br>
 Author - Sujatha
